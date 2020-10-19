@@ -1,0 +1,21 @@
+<employees>
+	<employee id="1">
+		<name>John Doe</name>
+		<address>H#38,R#3,Banani,Dhaka</address>
+		<dept>sales</dept>
+		<sal>20000</sal>
+
+	<employee id="2">
+		<name>Mark Zuckerberg</name>
+		<address>Flat# A/1, H# 20, R#18, Mirpur, Dhaka</address>
+		<dept>accounts</dept>
+		<sal>12000</sal>
+	</employee>
+
+	<employee id="3">
+		<name>Ala Voski</name>
+		<address>H# 38, R#3, Motijheel</address>
+		<dept>human resource</dept>
+		<sal>30000</sal>
+	</employee>
+</employees>
