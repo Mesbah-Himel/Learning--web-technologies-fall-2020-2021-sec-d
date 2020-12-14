@@ -6,8 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-    <legend>REGISTRATION<legend>
-    <form action="" method="">
+    <form action="" method=""></form>
+    <fieldset>
+    <legend>REGISTRATION</legend>
         <label for="id">ID:</label><br>
         <input type="tel" id="id" name="id" value=""><br>
         <label for="password">Password:</label><br>
@@ -23,8 +24,9 @@
                 <option value="User">User</option>
                 <option value="Admin">Admin</option>
         </select><hr>
-        <input type="Register" value="Register">
+        <input type="submit" value="Register">
         <a href="login.html">Login</a>
+    </fieldset>
 </form>
 </body>
 </html>
